@@ -7,8 +7,8 @@ Além de programação, me dedico ao Inglês, gosto de ler e não vivo sem café
 
 <div align="center" >
   <a href="https://github.com/CathianaSaraiva">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CathianaSaraiva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CathianaSaraiva&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CathianaSaraiva&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CathianaSaraiva&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
 <div style="display: inline_block"><br>
