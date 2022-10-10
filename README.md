@@ -17,7 +17,7 @@ Além de programação, me dedico ao Inglês, gosto de ler e não vivo sem café
   <img align="center" alt="Cath-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Cath-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Cath-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="right" alt="Cath-pic" height="150" style="border-radius:50px;" 
+    <img align="right" alt="Cath-pic" height="150" style=" border-radius: 100%;"
     src="https://user-images.githubusercontent.com/102255231/163044136-0d43dfca-b6e7-48e2-8c50-37b5b6431980.png">
 </div>
 
